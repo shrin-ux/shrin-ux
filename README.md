@@ -80,6 +80,5 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/shrin-ux/shrin-ux/output/snake.svg" alt="Snake animation" />
 
 ###
