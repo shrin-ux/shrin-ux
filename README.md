@@ -10,7 +10,7 @@
 
 <br clear="both">
 
-<h4 align="left">💻A passionate web developer at AppsDeployer since November 2022, with a dynamic transition from a 6-month internship to ongoing full-time engagement. Currently thriving as a MERN stack developer, actively contributing to the ongoing development of innovative company products.</h4>
+<h4 align="left">💻A passionate web developer.</h4>
 
 ###
 
