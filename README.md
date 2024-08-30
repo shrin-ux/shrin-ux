@@ -1,23 +1,21 @@
 <br clear="both">
 
 <h1 align="center">Hi👋🏼,I'm Shrinivas Joshi</h1>
-<div align="center">
-  MERN Stack Developer
-</div>
-
+<h2 align="center">
+  <span style="color: #47A248;">M</span> <!-- MongoDB Green -->
+  <span style="color: #FFFFFF;">E</span> <!-- Express White -->
+  <span style="color: #61DAFB;">R</span> <!-- React Blue -->
+  <span style="color: #68A063;">N</span> <!-- Node.js Green -->
+  Stack Developer
+</h2>
 <div align='center'>
 
-<br clear="both">
-
-📄 [Have look at my Resume](https://docs.google.com/document/d/1bG8Q67Zw2w5ZKqVtfHalPHHOIFsQVTg9ne6skLvIFNQ/edit?usp=sharing)
-
-[Portfolio](https://shrinivasjoshi.vercel.app/)
+<span>📄 <a href="https://docs.google.com/document/d/1bG8Q67Zw2w5ZKqVtfHalPHHOIFsQVTg9ne6skLvIFNQ/edit?usp=sharing" target="_blank">Have a look at my Resume</a></span> |
+<span><a href="https://shrinivasjoshi.vercel.app/" target="_blank">Portfolio</a></span>
 
 </div>
 
-<br clear="both">
-
-<h4 align="left">💻Passionate MERN Stack Developer with 1+ Years of Industry Experience | Crafting scalable and efficient web applications with a focus on seamless user experiences.
+<h4 align="left">Masterful MERN Stack Developer with 1+ Years of Industry Experience | Skilled in crafting scalable and efficient web applications, with a strong focus on seamless user experiences. Leveraging expertise in MongoDB, Express, React, and Node.js to build robust full-stack solutions. Committed to continuous learning and staying updated with the latest industry trends to deliver high-quality, innovative software.
 </h4>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shrin-ux" alt="shrin-ux" /></a> </p>
