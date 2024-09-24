@@ -53,7 +53,7 @@
 
 <p align="left">Bachelor of Technology (Computer Science)</p>
 <p align="left">🎓Malwa Institute of Technology, Indore</p>
-<p align="left"> 📋CGPA- 8.31/10</p>
+<p align="left"> 📋CGPA- 8.31</p>
 
 <h3 align="left">My skill set comprises:</h3>
 
