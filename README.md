@@ -15,7 +15,7 @@
 
 </div>
 
-<h4 align="left">Masterful MERN Stack Developer with 1+ Years of Industry Experience | Skilled in crafting scalable and efficient web applications, with a strong focus on seamless user experiences. Leveraging expertise in MongoDB, Express, React, and Node.js to build robust full-stack solutions. Committed to continuous learning and staying updated with the latest industry trends to deliver high-quality, innovative software.
+<h4 align="left">I have over a year of practical experience in developing efficient and scalable web applications using the MERN stack—MongoDB, Express, React, and Node.js. My strength is in creating full-stack solutions that are both robust and user-friendly. I’m passionate about keeping up with new technologies and continuously improving my skills to deliver high-quality, innovative software that meets today’s web development standards.
 </h4>
 
 <div align="center">
