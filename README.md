@@ -46,6 +46,11 @@
 <div>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=shrin-ux&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </div>
+<div>
+  <h3 align="left">Note: </h3> You can see more of my contributions in my GitLab account. here is <a href="https://gitlab.com/shrinivas.joshi1" target="_blank">Link</a>
+</div>
+
+
 
  
 
